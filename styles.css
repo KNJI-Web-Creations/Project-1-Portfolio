@@ -1,0 +1,74 @@
+/*body*/
+.center {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width: 100%;
+}
+
+.center2 {
+    display: block;
+    width: 450;
+    height: 250;
+}
+
+/*Home*/
+.narrative1 {
+   text-align: center;
+}
+
+.quotes {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*quotes*/
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 100%;
+    padding-left: 33.33px 0 0;
+    padding-right: 33.33px 0 0;
+    text-align: center;
+
+}
+
+/*gallery*/
+.gallery {
+    flex: 100%;
+    padding-left: 33.33px 0 0;
+    padding-right: 33.33px 0 0;
+    text-align: center;
+
+}
+
+/*about*/
+.narrative2 {
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/*contact*/
+.narrative3 {
+    text-align: center;
+}
+
+/*interests*/
+.interests h1{
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+/*footer*/
+.socials {
+    background-color: lightgrey;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    text-align: center;
+}
